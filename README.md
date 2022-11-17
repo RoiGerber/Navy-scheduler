@@ -26,8 +26,8 @@
   this program solves the puzzle and give the soldiers a free weekend if possible.
   
 # Input example
+![image](https://user-images.githubusercontent.com/85450521/202538631-e018548d-e900-4c37-8182-1b4428d6c51e.png)
 
-![image](https://user-images.githubusercontent.com/85450521/202537688-7cc7d2bd-a3c9-4f68-849f-abd9615c9bb6.png)
 
 # Output example
 
