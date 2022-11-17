@@ -25,7 +25,15 @@
   
   this program solves the puzzle and give the soldiers a free weekend if possible.
   
-  
+# Input example
+
+![image](https://user-images.githubusercontent.com/85450521/202537688-7cc7d2bd-a3c9-4f68-849f-abd9615c9bb6.png)
+
+# Output example
+
+![image](https://user-images.githubusercontent.com/85450521/202537810-885e7060-9d45-476c-bcd3-460708bc35b5.png)
+
+   
 # How it Works
   the program is actually a recursive algorithm.
   each "rule" is calculated for how restrictive he is.
