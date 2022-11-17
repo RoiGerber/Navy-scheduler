@@ -30,8 +30,7 @@
 
 
 # Output example
-
-![image](https://user-images.githubusercontent.com/85450521/202537810-885e7060-9d45-476c-bcd3-460708bc35b5.png)
+![image](https://user-images.githubusercontent.com/85450521/202539508-f115d6a6-976f-4f0c-be3c-f244f4d5c3ec.png)
 
    
 # How it Works
